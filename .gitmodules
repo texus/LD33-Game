@@ -1,0 +1,7 @@
+[submodule "SFML"]
+	path = SFML
+	url = https://github.com/SFML/SFML
+[submodule "TGUI"]
+	path = TGUI
+	url = https://github.com/texus/TGUI
+	branch = v0.7-dev
